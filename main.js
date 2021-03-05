@@ -1,5 +1,7 @@
 const methods = require('./prueba')
 
+console.log(methods)
+
 var user = {'name': 'pepe'}
 
 
